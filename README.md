@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 🗃️ MongoDB Replica Set Setup (Test Environment)
